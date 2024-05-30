@@ -1,0 +1,194 @@
+﻿Reference,SKU,Name,Master,Position,Unit-quantity,Unit,Weight,price,Category-global:1,Property:Soumis à l'écocontribution,Property:Délai de livraison moyen,available-on-demand,quotable-without-stock,stock-level,stock-visible,remove,option:Assise et Dossier,option:Couleur corps de meuble,option:Couleur plateau stratifié,option:Hauteur,option:Couleur tube epoxy,enabled
+VR1.SOCA,VR1.SOCA-HET6JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,HÊTRE,RÉGLÉE HT T6,JAUNE,1
+VR1.SOCA,VR1.SOCA-HET6BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,HÊTRE,RÉGLÉE HT T6,BLEU,1
+VR1.SOCA,VR1.SOCA-HET6RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,HÊTRE,RÉGLÉE HT T6,ROUGE,1
+VR1.SOCA,VR1.SOCA-HET5JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,HÊTRE,RÉGLÉE HT T5,JAUNE,1
+VR1.SOCA,VR1.SOCA-HET5BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,HÊTRE,RÉGLÉE HT T5,BLEU,1
+VR1.SOCA,VR1.SOCA-HET5RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,HÊTRE,RÉGLÉE HT T5,ROUGE,1
+VR1.SOCA,VR1.SOCA-HET4JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,HÊTRE,RÉGLÉE HT T4,JAUNE,1
+VR1.SOCA,VR1.SOCA-HET4BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,HÊTRE,RÉGLÉE HT T4,BLEU,1
+VR1.SOCA,VR1.SOCA-HET4RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,HÊTRE,RÉGLÉE HT T4,ROUGE,1
+VR1.SOCA,VR1.SOCA-HET3JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,HÊTRE,RÉGLÉE HT T3,JAUNE,1
+VR1.SOCA,VR1.SOCA-HET3BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,HÊTRE,RÉGLÉE HT T3,BLEU,1
+VR1.SOCA,VR1.SOCA-HET3RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,HÊTRE,RÉGLÉE HT T3,ROUGE,1
+VR1.SOCA,VR1.SOCA-CHT6JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,CHAMPAGNE,RÉGLÉE HT T6,JAUNE,1
+VR1.SOCA,VR1.SOCA-CHT6BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,CHAMPAGNE,RÉGLÉE HT T6,BLEU,1
+VR1.SOCA,VR1.SOCA-CHT6RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,CHAMPAGNE,RÉGLÉE HT T6,ROUGE,1
+VR1.SOCA,VR1.SOCA-CHT5JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,CHAMPAGNE,RÉGLÉE HT T5,JAUNE,1
+VR1.SOCA,VR1.SOCA-CHT5BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,CHAMPAGNE,RÉGLÉE HT T5,BLEU,1
+VR1.SOCA,VR1.SOCA-CHT5RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,CHAMPAGNE,RÉGLÉE HT T5,ROUGE,1
+VR1.SOCA,VR1.SOCA-CHT4JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,CHAMPAGNE,RÉGLÉE HT T4,JAUNE,1
+VR1.SOCA,VR1.SOCA-CHT4BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,CHAMPAGNE,RÉGLÉE HT T4,BLEU,1
+VR1.SOCA,VR1.SOCA-CHT4RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,CHAMPAGNE,RÉGLÉE HT T4,ROUGE,1
+VR1.SOCA,VR1.SOCA-CHT3JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,CHAMPAGNE,RÉGLÉE HT T3,JAUNE,1
+VR1.SOCA,VR1.SOCA-CHT3BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,CHAMPAGNE,RÉGLÉE HT T3,BLEU,1
+VR1.SOCA,VR1.SOCA-CHT3RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,CHAMPAGNE,RÉGLÉE HT T3,ROUGE,1
+VR1.SOCA,VR1.SOCA-RGT6JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,ROUGE,RÉGLÉE HT T6,JAUNE,1
+VR1.SOCA,VR1.SOCA-RGT6BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,ROUGE,RÉGLÉE HT T6,BLEU,1
+VR1.SOCA,VR1.SOCA-RGT6RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,ROUGE,RÉGLÉE HT T6,ROUGE,1
+VR1.SOCA,VR1.SOCA-RGT5JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,ROUGE,RÉGLÉE HT T5,JAUNE,1
+VR1.SOCA,VR1.SOCA-RGT5BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,ROUGE,RÉGLÉE HT T5,BLEU,1
+VR1.SOCA,VR1.SOCA-RGT5RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,ROUGE,RÉGLÉE HT T5,ROUGE,1
+VR1.SOCA,VR1.SOCA-RGT4JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,ROUGE,RÉGLÉE HT T4,JAUNE,1
+VR1.SOCA,VR1.SOCA-RGT4BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,ROUGE,RÉGLÉE HT T4,BLEU,1
+VR1.SOCA,VR1.SOCA-RGT4RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,ROUGE,RÉGLÉE HT T4,ROUGE,1
+VR1.SOCA,VR1.SOCA-RGT3JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,ROUGE,RÉGLÉE HT T3,JAUNE,1
+VR1.SOCA,VR1.SOCA-RGT3BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,ROUGE,RÉGLÉE HT T3,BLEU,1
+VR1.SOCA,VR1.SOCA-RGT3RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,ROUGE,RÉGLÉE HT T3,ROUGE,1
+VR1.SOCA,VR1.SOCA-JUT6JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,JAUNE POLLEN,RÉGLÉE HT T6,JAUNE,1
+VR1.SOCA,VR1.SOCA-JUT6BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,JAUNE POLLEN,RÉGLÉE HT T6,BLEU,1
+VR1.SOCA,VR1.SOCA-JUT6RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,JAUNE POLLEN,RÉGLÉE HT T6,ROUGE,1
+VR1.SOCA,VR1.SOCA-JUT5JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,JAUNE POLLEN,RÉGLÉE HT T5,JAUNE,1
+VR1.SOCA,VR1.SOCA-JUT5BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,JAUNE POLLEN,RÉGLÉE HT T5,BLEU,1
+VR1.SOCA,VR1.SOCA-JUT5RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,JAUNE POLLEN,RÉGLÉE HT T5,ROUGE,1
+VR1.SOCA,VR1.SOCA-JUT4JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,JAUNE POLLEN,RÉGLÉE HT T4,JAUNE,1
+VR1.SOCA,VR1.SOCA-JUT4BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,JAUNE POLLEN,RÉGLÉE HT T4,BLEU,1
+VR1.SOCA,VR1.SOCA-JUT4RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,JAUNE POLLEN,RÉGLÉE HT T4,ROUGE,1
+VR1.SOCA,VR1.SOCA-JUT3JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,JAUNE POLLEN,RÉGLÉE HT T3,JAUNE,1
+VR1.SOCA,VR1.SOCA-JUT3BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,JAUNE POLLEN,RÉGLÉE HT T3,BLEU,1
+VR1.SOCA,VR1.SOCA-JUT3RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,JAUNE POLLEN,RÉGLÉE HT T3,ROUGE,1
+VR1.SOCA,VR1.SOCA-BZT6JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,BLEU HORIZON,RÉGLÉE HT T6,JAUNE,1
+VR1.SOCA,VR1.SOCA-BZT6BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,BLEU HORIZON,RÉGLÉE HT T6,BLEU,1
+VR1.SOCA,VR1.SOCA-BZT6RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,BLEU HORIZON,RÉGLÉE HT T6,ROUGE,1
+VR1.SOCA,VR1.SOCA-BZT5JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,BLEU HORIZON,RÉGLÉE HT T5,JAUNE,1
+VR1.SOCA,VR1.SOCA-BZT5BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,BLEU HORIZON,RÉGLÉE HT T5,BLEU,1
+VR1.SOCA,VR1.SOCA-BZT5RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,BLEU HORIZON,RÉGLÉE HT T5,ROUGE,1
+VR1.SOCA,VR1.SOCA-BZT4JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,BLEU HORIZON,RÉGLÉE HT T4,JAUNE,1
+VR1.SOCA,VR1.SOCA-BZT4BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,BLEU HORIZON,RÉGLÉE HT T4,BLEU,1
+VR1.SOCA,VR1.SOCA-BZT4RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,BLEU HORIZON,RÉGLÉE HT T4,ROUGE,1
+VR1.SOCA,VR1.SOCA-BZT3JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,BLEU HORIZON,RÉGLÉE HT T3,JAUNE,1
+VR1.SOCA,VR1.SOCA-BZT3BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,BLEU HORIZON,RÉGLÉE HT T3,BLEU,1
+VR1.SOCA,VR1.SOCA-BZT3RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,BLEU HORIZON,RÉGLÉE HT T3,ROUGE,1
+VR1.SOCA,VR1.SOCA-VDT6JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,VERT D'EAU,RÉGLÉE HT T6,JAUNE,1
+VR1.SOCA,VR1.SOCA-VDT6BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,VERT D'EAU,RÉGLÉE HT T6,BLEU,1
+VR1.SOCA,VR1.SOCA-VDT6RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,VERT D'EAU,RÉGLÉE HT T6,ROUGE,1
+VR1.SOCA,VR1.SOCA-VDT5JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,VERT D'EAU,RÉGLÉE HT T5,JAUNE,1
+VR1.SOCA,VR1.SOCA-VDT5BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,VERT D'EAU,RÉGLÉE HT T5,BLEU,1
+VR1.SOCA,VR1.SOCA-VDT5RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,VERT D'EAU,RÉGLÉE HT T5,ROUGE,1
+VR1.SOCA,VR1.SOCA-VDT4JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,VERT D'EAU,RÉGLÉE HT T4,JAUNE,1
+VR1.SOCA,VR1.SOCA-VDT4BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,VERT D'EAU,RÉGLÉE HT T4,BLEU,1
+VR1.SOCA,VR1.SOCA-VDT4RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,VERT D'EAU,RÉGLÉE HT T4,ROUGE,1
+VR1.SOCA,VR1.SOCA-VDT3JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,VERT D'EAU,RÉGLÉE HT T3,JAUNE,1
+VR1.SOCA,VR1.SOCA-VDT3BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,VERT D'EAU,RÉGLÉE HT T3,BLEU,1
+VR1.SOCA,VR1.SOCA-VDT3RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,VERT D'EAU,RÉGLÉE HT T3,ROUGE,1
+VR1.SOCA,VR1.SOCA-OUT6JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,ORANGE,RÉGLÉE HT T6,JAUNE,1
+VR1.SOCA,VR1.SOCA-OUT6BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,ORANGE,RÉGLÉE HT T6,BLEU,1
+VR1.SOCA,VR1.SOCA-OUT6RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,ORANGE,RÉGLÉE HT T6,ROUGE,1
+VR1.SOCA,VR1.SOCA-OUT5JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,ORANGE,RÉGLÉE HT T5,JAUNE,1
+VR1.SOCA,VR1.SOCA-OUT5BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,ORANGE,RÉGLÉE HT T5,BLEU,1
+VR1.SOCA,VR1.SOCA-OUT5RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,ORANGE,RÉGLÉE HT T5,ROUGE,1
+VR1.SOCA,VR1.SOCA-OUT4JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,ORANGE,RÉGLÉE HT T4,JAUNE,1
+VR1.SOCA,VR1.SOCA-OUT4BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,ORANGE,RÉGLÉE HT T4,BLEU,1
+VR1.SOCA,VR1.SOCA-OUT4RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,ORANGE,RÉGLÉE HT T4,ROUGE,1
+VR1.SOCA,VR1.SOCA-OUT3JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,ORANGE,RÉGLÉE HT T3,JAUNE,1
+VR1.SOCA,VR1.SOCA-OUT3BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,ORANGE,RÉGLÉE HT T3,BLEU,1
+VR1.SOCA,VR1.SOCA-OUT3RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,ORANGE,RÉGLÉE HT T3,ROUGE,1
+VR1.SOCA,VR1.SOCA-G9T6JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,GRIS MOUCHETÉ,RÉGLÉE HT T6,JAUNE,1
+VR1.SOCA,VR1.SOCA-G9T6BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,GRIS MOUCHETÉ,RÉGLÉE HT T6,BLEU,1
+VR1.SOCA,VR1.SOCA-G9T6RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,GRIS MOUCHETÉ,RÉGLÉE HT T6,ROUGE,1
+VR1.SOCA,VR1.SOCA-G9T5JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,GRIS MOUCHETÉ,RÉGLÉE HT T5,JAUNE,1
+VR1.SOCA,VR1.SOCA-G9T5BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,GRIS MOUCHETÉ,RÉGLÉE HT T5,BLEU,1
+VR1.SOCA,VR1.SOCA-G9T5RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,GRIS MOUCHETÉ,RÉGLÉE HT T5,ROUGE,1
+VR1.SOCA,VR1.SOCA-G9T4JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,GRIS MOUCHETÉ,RÉGLÉE HT T4,JAUNE,1
+VR1.SOCA,VR1.SOCA-G9T4BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,GRIS MOUCHETÉ,RÉGLÉE HT T4,BLEU,1
+VR1.SOCA,VR1.SOCA-G9T4RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,GRIS MOUCHETÉ,RÉGLÉE HT T4,ROUGE,1
+VR1.SOCA,VR1.SOCA-G9T3JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,GRIS MOUCHETÉ,RÉGLÉE HT T3,JAUNE,1
+VR1.SOCA,VR1.SOCA-G9T3BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,GRIS MOUCHETÉ,RÉGLÉE HT T3,BLEU,1
+VR1.SOCA,VR1.SOCA-G9T3RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,GRIS MOUCHETÉ,RÉGLÉE HT T3,ROUGE,1
+VR1.SOCA,VR1.SOCA-WET6JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,WENGÉ,RÉGLÉE HT T6,JAUNE,1
+VR1.SOCA,VR1.SOCA-WET6BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,WENGÉ,RÉGLÉE HT T6,BLEU,1
+VR1.SOCA,VR1.SOCA-WET6RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,WENGÉ,RÉGLÉE HT T6,ROUGE,1
+VR1.SOCA,VR1.SOCA-WET5JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,WENGÉ,RÉGLÉE HT T5,JAUNE,1
+VR1.SOCA,VR1.SOCA-WET5BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,WENGÉ,RÉGLÉE HT T5,BLEU,1
+VR1.SOCA,VR1.SOCA-WET5RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,WENGÉ,RÉGLÉE HT T5,ROUGE,1
+VR1.SOCA,VR1.SOCA-WET4JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,WENGÉ,RÉGLÉE HT T4,JAUNE,1
+VR1.SOCA,VR1.SOCA-WET4BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,WENGÉ,RÉGLÉE HT T4,BLEU,1
+VR1.SOCA,VR1.SOCA-WET4RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,WENGÉ,RÉGLÉE HT T4,ROUGE,1
+VR1.SOCA,VR1.SOCA-WET3JA,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,WENGÉ,RÉGLÉE HT T3,JAUNE,1
+VR1.SOCA,VR1.SOCA-WET3BL,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,WENGÉ,RÉGLÉE HT T3,BLEU,1
+VR1.SOCA,VR1.SOCA-WET3RG,Table SDM,TABLEAP,0,1,Pièce,1,1.0,Catalogue général;Administratif;,Oui,5 jours ouvrés,1,1,10,1,0,,,WENGÉ,RÉGLÉE HT T3,ROUGE,1
+129R,129R-CV35JA,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,35 CM,JAUNE,1
+129R,129R-CV35BL,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,35 CM,BLEU,1
+129R,129R-CV35RO,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,35 CM,ROSE GERBERA,1
+129R,129R-CV35VA,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,35 CM,VERT ANIS,1
+129R,129R-CV35CL,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,35 CM,BLEU CLAIR,1
+129R,129R-CV35RG,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,35 CM,ROUGE,1
+129R,129R-CV35PO,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,35 CM,VERT POMME,1
+129R,129R-CV35VL,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,35 CM,VIOLET 4005,1
+129R,129R-CV35BC,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,35 CM,BLANC,1
+129R,129R-CV35NO,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,35 CM,NOIR,1
+129R,129R-CV35GR,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,35 CM,GRIS,1
+129R,129R-CV35VI,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,35 CM,BLEU VIOLET,1
+129R,129R-CV35FU,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,35 CM,FUSHIA,1
+129R,129R-CV35OR,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,35 CM,ORANGE,1
+129R,129R-CV35VJ,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,35 CM,VERT / JAUNE,1
+129R,129R-CV35BX,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,35 CM,BORDEAUX,1
+129R,129R-CV31JA,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,31 CM,JAUNE,1
+129R,129R-CV31BL,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,31 CM,BLEU,1
+129R,129R-CV31RO,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,31 CM,ROSE GERBERA,1
+129R,129R-CV31VA,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,31 CM,VERT ANIS,1
+129R,129R-CV31CL,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,31 CM,BLEU CLAIR,1
+129R,129R-CV31RG,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,31 CM,ROUGE,1
+129R,129R-CV31PO,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,31 CM,VERT POMME,1
+129R,129R-CV31VL,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,31 CM,VIOLET 4005,1
+129R,129R-CV31BC,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,31 CM,BLANC,1
+129R,129R-CV31NO,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,31 CM,NOIR,1
+129R,129R-CV31GR,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,31 CM,GRIS,1
+129R,129R-CV31VI,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,31 CM,BLEU VIOLET,1
+129R,129R-CV31FU,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,31 CM,FUSHIA,1
+129R,129R-CV31OR,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,31 CM,ORANGE,1
+129R,129R-CV31VJ,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,31 CM,VERT / JAUNE,1
+129R,129R-CV31BX,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,31 CM,BORDEAUX,1
+129R,129R-CV26JA,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,26 CM,JAUNE,1
+129R,129R-CV26BL,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,26 CM,BLEU,1
+129R,129R-CV26RO,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,26 CM,ROSE GERBERA,1
+129R,129R-CV26VA,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,26 CM,VERT ANIS,1
+129R,129R-CV26CL,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,26 CM,BLEU CLAIR,1
+129R,129R-CV26RG,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,26 CM,ROUGE,1
+129R,129R-CV26PO,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,26 CM,VERT POMME,1
+129R,129R-CV26VL,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,26 CM,VIOLET 4005,1
+129R,129R-CV26BC,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,26 CM,BLANC,1
+129R,129R-CV26NO,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,26 CM,NOIR,1
+129R,129R-CV26GR,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,26 CM,GRIS,1
+129R,129R-CV26VI,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,26 CM,BLEU VIOLET,1
+129R,129R-CV26FU,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,26 CM,FUSHIA,1
+129R,129R-CV26OR,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,26 CM,ORANGE,1
+129R,129R-CV26VJ,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,26 CM,VERT / JAUNE,1
+129R,129R-CV26BX,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,26 CM,BORDEAUX,1
+129R,129R-CV22JA,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,22 CM,JAUNE,1
+129R,129R-CV22BL,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,22 CM,BLEU,1
+129R,129R-CV22RO,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,22 CM,ROSE GERBERA,1
+129R,129R-CV22VA,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,22 CM,VERT ANIS,1
+129R,129R-CV22CL,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,22 CM,BLEU CLAIR,1
+129R,129R-CV22RG,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,22 CM,ROUGE,1
+129R,129R-CV22PO,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,22 CM,VERT POMME,1
+129R,129R-CV22VL,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,22 CM,VIOLET 4005,1
+129R,129R-CV22BC,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,22 CM,BLANC,1
+129R,129R-CV22NO,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,22 CM,NOIR,1
+129R,129R-CV22GR,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,22 CM,GRIS,1
+129R,129R-CV22VI,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,22 CM,BLEU VIOLET,1
+129R,129R-CV22FU,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,22 CM,FUSHIA,1
+129R,129R-CV22OR,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,22 CM,ORANGE,1
+129R,129R-CV22VJ,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,22 CM,VERT / JAUNE,1
+129R,129R-CV22BX,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,22 CM,BORDEAUX,1
+129R,129R-CV18JA,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,18 CM,JAUNE,1
+129R,129R-CV18BL,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,18 CM,BLEU,1
+129R,129R-CV18RO,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,18 CM,ROSE GERBERA,1
+129R,129R-CV18VA,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,18 CM,VERT ANIS,1
+129R,129R-CV18CL,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,18 CM,BLEU CLAIR,1
+129R,129R-CV18RG,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,18 CM,ROUGE,1
+129R,129R-CV18PO,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,18 CM,VERT POMME,1
+129R,129R-CV18VL,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,18 CM,VIOLET 4005,1
+129R,129R-CV18BC,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,18 CM,BLANC,1
+129R,129R-CV18NO,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,18 CM,NOIR,1
+129R,129R-CV18GR,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,18 CM,GRIS,1
+129R,129R-CV18VI,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,18 CM,BLEU VIOLET,1
+129R,129R-CV18FU,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,18 CM,FUSHIA,1
+129R,129R-CV18OR,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,18 CM,ORANGE,1
+129R,129R-CV18VJ,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,18 CM,VERT / JAUNE,1
+129R,129R-CV18BX,Chaise 129R,CHAISEFIXE,0,1,Pièce,20,1.5,Catalogue général;Administratif;,Oui,8 jours ouvrés,1,1,5,1,0,VERNI,,,18 CM,BORDEAUX,1
+AB,AB-DW00PM,Meuble AB,MEUBLEDACC,0,1,Pièce,1,2.0,Catalogue général;Administratif;,Oui,14 jours ouvrés,1,1,3,1,0,,DRIFTWOOD,,PIÈTEMENT MÉTAL,PIÈTEMENT MÉTAL,1
+AB,AB-HI00PM,Meuble AB,MEUBLEDACC,0,1,Pièce,1,2.0,Catalogue général;Administratif;,Oui,14 jours ouvrés,1,1,3,1,0,,CHÊNE HIGHLAND,,PIÈTEMENT MÉTAL,PIÈTEMENT MÉTAL,1
+AB,AB-HE00PM,Meuble AB,MEUBLEDACC,0,1,Pièce,1,2.0,Catalogue général;Administratif;,Oui,14 jours ouvrés,1,1,3,1,0,,HÊTRE,,PIÈTEMENT MÉTAL,PIÈTEMENT MÉTAL,1
+AB,AB-CH00PM,Meuble AB,MEUBLEDACC,0,1,Pièce,1,2.0,Catalogue général;Administratif;,Oui,14 jours ouvrés,1,1,3,1,0,,CHAMPAGNE,,PIÈTEMENT MÉTAL,PIÈTEMENT MÉTAL,1
+AB,AB-BC00PM,Meuble AB,MEUBLEDACC,0,1,Pièce,1,2.0,Catalogue général;Administratif;,Oui,14 jours ouvrés,1,1,3,1,0,,BLANC,,PIÈTEMENT MÉTAL,PIÈTEMENT MÉTAL,1
